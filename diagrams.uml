@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.notes</OriginalElement>
+  <nodes>
+    <node x="353.5" y="498.0">9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.tasks</node>
+    <node x="65.5" y="454.0">9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.notes</node>
+    <node x="0.0" y="0.0">9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.users</node>
+    <node x="308.25" y="110.0">9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.projects</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.tasks" target="9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.projects">
+      <point x="0.0" y="-81.0" />
+      <point x="45.25" y="92.0" />
+    </edge>
+    <edge source="9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.notes" target="9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.users">
+      <point x="-67.0" y="-125.0" />
+      <point x="0.0" y="202.0" />
+    </edge>
+    <edge source="9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.notes" target="9b911aa5-3bae-4de3-9ad4-2f1ec435c199.TABLE:main.projects">
+      <point x="67.0" y="-125.0" />
+      <point x="266.5" y="429.0" />
+      <point x="353.5" y="429.0" />
+      <point x="-45.25" y="92.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.643646408839779" x="268.0" y="352.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Key columns</Category>
+  </Categories>
+</Diagram>
+
